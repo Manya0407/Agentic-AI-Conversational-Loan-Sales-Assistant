@@ -121,6 +121,8 @@ The application will be accessible via the Streamlit interface in your browser.
 ---
 
 ## Demo Scenarios
+## Loan Application Interface
+![Loan Application Interface](screenshots/Pic1.png)
 
 ### ✅ Instant Approval
 
@@ -128,6 +130,7 @@ The application will be accessible via the Streamlit interface in your browser.
 * Credit score ≥ 700
 
 **Outcome:** Loan approved and sanction letter generated
+![Loan Application Interface](screenshots/Pic2.png)
 
 ---
 
@@ -137,6 +140,7 @@ The application will be accessible via the Streamlit interface in your browser.
 * EMI validated against salary
 
 **Outcome:** Approval or rejection based on EMI threshold
+![Loan Application Interface](screenshots/Pic3.png)
 
 ---
 
@@ -146,8 +150,8 @@ The application will be accessible via the Streamlit interface in your browser.
 * Loan amount exceeds 2× pre-approved limit
 
 **Outcome:** Loan rejected, no document generated
+![Loan Application Interface](screenshots/Pic4.png)
 
-##
 
 ---
 
